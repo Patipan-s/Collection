@@ -21,9 +21,13 @@ https://github.com/zurb/tribute?utm_medium=playground-page&utm_campaign=playgrou
 # draft.js
 https://www.draft-js-plugins.com/plugin/mention
 https://github.com/draft-js-plugins/draft-js-plugins
-
+# ment.io
+https://libraries.io/bower/ment.io
+http://jeff-collins.github.io/ment.io/#/documentation
 # Docs. Package Jquery-mention / mention.js
 https://www.npmjs.com/package/jquery-mention
+https://www.cssscript.com/tag/autocomplete/    ****All Library
+https://cdnjs.com/libraries                    ****All CDN
 
 --------------------------------------------------------------------------------------------------------------------
 # Autocomplete for Textarea (Unknown)
