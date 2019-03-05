@@ -12,19 +12,19 @@ http://ichord.github.io/At.js/          =>
 https://github.com/ichord/At.js/wiki    =>
 https://github.com/Twizanex/At.js       =>
 ศึกษาด้วย https://github.com/ichord/Caret.js
-
---------------------------------------------------------------------------------------------------------------------
-# jquery-mention
-https://www.npmjs.com/package/jquery-mention
 # tribute.js 
 https://github.com/zurb/tribute
 https://zurb.com/blog/tribute-js-a-new-lightweight-and-easy-to- => 
 https://zurb.com/playground/tribute                             =>
 https://github.com/zurb/tribute?utm_medium=playground-page&utm_campaign=playground-tribute-page&utm_source=Playground
 => https://zurb.github.io/tribute/example/
-
 # draft.js
 https://www.draft-js-plugins.com/plugin/mention
 https://github.com/draft-js-plugins/draft-js-plugins
+
+# Docs. Package Jquery-mention / mention.js
+https://www.npmjs.com/package/jquery-mention
+
+--------------------------------------------------------------------------------------------------------------------
 # Autocomplete for Textarea (Unknown)
 https://github.com/Twizanex/jquery-textcomplete
