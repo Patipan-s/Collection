@@ -32,3 +32,7 @@ https://cdnjs.com/libraries                    ****All CDN
 --------------------------------------------------------------------------------------------------------------------
 # Autocomplete for Textarea (Unknown)
 https://github.com/Twizanex/jquery-textcomplete
+--------------------------------------------------------------------------------------------------------------------
+
+# Generate QrCode
+https://www.youtube.com/watch?v=C64MDSnoFQs
